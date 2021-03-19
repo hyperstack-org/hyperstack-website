@@ -12,7 +12,7 @@
     "actioncable": "^5.2.1",
     "compression-webpack-plugin": "^1.1.11",
     "history": "^4.7.2",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "moment": "^2.22.2",
     "react": "^16.4.2",
     "react-codemirror": "^1.0.0",
